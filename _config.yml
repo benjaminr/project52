@@ -1,3 +1,8 @@
 plugins:
     - jekyll-include-cache
 remote_theme: "mmistakes/minimal-mistakes@4.14.2"
+title: "project52"
+name: "Benjamin Rowell"
+url: "https://project52.app"
+repository: "benjaminr/project52"
+
